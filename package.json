@@ -1,0 +1,17 @@
+{
+  "name": "pr6-delivery-contract",
+  "version": "1.0.0",
+  "description": "DeliveryLifecycle smart contract (PR6)",
+  "main": "index.js",
+  "scripts": {
+    "scenario": "node scripts/run-scenario.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "ethers": "^6.17.0",
+    "ganache": "^7.9.2",
+    "solc": "^0.8.24"
+  }
+}
